@@ -10,6 +10,7 @@ environment:
   sdk: '>=3.3.0-234.0.dev <4.0.0'
 
 dependencies:
+  excel: ^4.0.2
   flutter:
     sdk: flutter
   flutter_localizations:
@@ -30,3 +31,4 @@ flutter:
   assets:
     # Add assets from the images directory to the application.
     - assets/images/
+    - assets/data/shower_lingo.xlsx
