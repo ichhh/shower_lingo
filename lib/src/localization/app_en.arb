@@ -1,0 +1,6 @@
+{
+  "appTitle": "shower_lingo",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
